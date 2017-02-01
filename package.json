@@ -1,0 +1,19 @@
+{
+  "name": "motepairnuway",
+  "version": "1.0.0",
+  "description": "Remote pair programming fun with NuWay",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eliotsmithnyc/motepairnuway.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliotsmithnyc/motepairnuway/issues"
+  },
+  "homepage": "https://github.com/eliotsmithnyc/motepairnuway#readme"
+}
