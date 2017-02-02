@@ -3,3 +3,70 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+ul {
+  list-style-type: none;
+  display: -webkit-inline-box;
+
+}
+
+li {
+  margin-right: 20px;
+}
+
+h2 {
+  font-size: 12px;
+  text-align: center;
+}
+
+.album-cover {
+  width: 300px;
+  height: 300px;
+}
+
+
+
+.AllTracksDisplay {
+  margin-top: 80px;
+}
+
+.favorite-tracks-diplay {
+  height: 170px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: lightgray;
+  width: 100%;
+}
+
+.favorite-tracks-diplay  .album-cover {
+  width: 100px;
+  height: 100px;
+}
+
+.favorite-tracks-diplay h2 {
+  font-size: 10px;
+}
+
+.track-favorite {
+  max-width: 100px;
+}
+
+.search-container {
+  height: 60px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: lightgray;
+  width: 100%;
+}
+
+.search-container input {
+ 
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+    font-size: 20px;
+    margin: 0 auto;
+    display: block;
+}
